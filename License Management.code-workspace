@@ -1,0 +1,79 @@
+{
+	"folders": [
+		{
+			"path": "src/.alpackages"
+		},
+		{
+			"path": "src/License Management"
+		},
+		{
+			"path": "src/License Management Unit Tests"
+		}
+	],
+	"settings": {
+		"al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+			"${CodeCop}",
+			"${UICop}",
+			"${analyzerFolder}BusinessCentral.LinterCop.dll"
+		],
+		"al.ruleSetPath": "../Ruleset/IS.ruleset.json",
+		"al.packageCachePath": [
+			"../.alpackages"
+		],
+		"al.showExplorerAtStartup": "Never",
+		"al.rootNamespace": "IS",
+		"alOutline.appAreaMode": "addToAllControls",
+		"alOutline.codeActionsOnSave": [
+			"SortTableFields",
+			"SortReportColumns",
+			"SortProperties",
+			"SortProcedures",
+			"SortVariables",
+			"SortPermissions",
+			"SortPermissionSetList",
+			"FormatDocument",
+			"SortCustomizations"
+		],
+		"alOutline.defaultRemoveUnusedVariablesSettings": {
+			"removeGlobalVariables": true,
+			"removeLocalMethodParameters": true,
+			"removeLocalVariables": true
+		},
+		"alOutline.enableCodeCopFixes": true,
+		"alOutline.noEmptyLinesAtTheEndOfWizardGeneratedFiles": true,
+		"alOutline.promptForFilePath": true,
+		"alOutline.webClientPort": 0,
+		"alOutline.codeCleanupActions": [
+			"RemoveWithStatements",
+			"SortProcedures",
+			"SortVariables",
+			"RemoveEmptyLines",
+			"RemoveRedundantDataClassification",
+			"RemoveEmptyTriggers",
+			"AddApplicationAreas",
+			"FormatDocument",
+			"AddToolTips"
+		],
+		"alOutline.defaultDataClassification": "CustomerContent",
+		"alOutline.useTableFieldDescriptionAsToolTip": true,
+		"CRS.FileNamePattern": "<ObjectNameExcludingAffix>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.RemoveSuffixFromFilename": false,
+		"CRS.RemovePrefixFromFilename": true,
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.SkipWarningMessageOnRenameAll": true,
+		"git.openRepositoryInParentFolders": "always",
+		"linterCop.autoDownload": true
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dynamics-smb.al",
+			"andrzejzwierzchowski.al-code-outline",
+			"waldo.crs-al-language-extension",
+			"eamodio.gitlens",
+			"stefanmaron.businesscentral-lintercop"
+		]
+	}
+}

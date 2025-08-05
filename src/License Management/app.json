@@ -1,0 +1,36 @@
+{
+  "id": "d6e30684-2c84-4499-b26c-fcd8c4aad1a2",
+  "name": "IS License Management",
+  "publisher": "Implementation Specialists",
+  "version": "26.2.0.0",
+  "brief": "Manages licenses for Implementation Specialists products.",
+  "description": "Performs license validation and registration for Implementation Specialists products that require a license.",
+  "privacyStatement": "https://www.iscorp.biz/",
+  "EULA": "https://www.iscorp.biz/",
+  "contextSensitiveHelpUrl": "https://www.iscorp.biz/",
+  "help": "https://www.iscorp.biz/support/",
+  "url": "https://www.iscorp.biz/",
+  "logo": "../Resources/ISLogo.png",
+  "applicationInsightsConnectionString": "InstrumentationKey=4283c499-4c11-4900-89eb-040c858827df;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/;ApplicationId=21ba87e7-a998-4098-bee0-e2bfd03627ce",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.2.0.0",
+  "idRanges": [
+    {
+      "from": 72458590,
+      "to": 72458600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "15.2",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "preprocessorSymbols": [ "RELEASE" ]
+}
