@@ -1,0 +1,9 @@
+{
+"ConditionalSettings": [
+        {
+            "settings": {
+                "preprocessorSymbols": [ "DEBUG" ]
+            }
+        }
+    ]
+}

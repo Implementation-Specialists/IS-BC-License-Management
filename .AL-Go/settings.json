@@ -2,9 +2,17 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "country": "us",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "ISZ"
   ],
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "repoVersion": "26.2",
+  "enableCodeCop": true,
+  "enableUICop": true,
+  "customCodeCops": [
+    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/latest/download/BusinessCentral.LinterCop.dll"
+  ],
+  "vsixFile": "latest",
+  "failOn": "warning"
 }
