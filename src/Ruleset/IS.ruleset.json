@@ -1,0 +1,61 @@
+{
+    "name": "Implementation Specialists Ruleset",
+    "description": "Implementation Specialists Mandatory Rules",
+    "rules": [
+        {
+            "id": "LC0021",
+            "action": "Warning",
+            "justification": "Confirm() must be implemented through the Confirm Management codeunit from the System Application."
+        },
+        {
+            "id": "LC0025",
+            "action": "Warning",
+            "justification": "Procedure must be either local, internal or define a documentation comment."
+        },
+        {
+            "id": "LC0026",
+            "action": "Warning",
+            "justification": "ToolTip must end with a dot."
+        },
+        {
+            "id": "LC0027",
+            "action": "Warning",
+            "justification": "Utilize the Page Management codeunit for launching page."
+        },
+        {
+            "id": "LC0028",
+            "action": "Warning",
+            "justification": "Event subscriber arguments now use identifier syntax instead of string literals."
+        },
+        {
+            "id": "LC0029",
+            "action": "Hidden",
+            "justification": "Making use of the CompareDateTime method is a temporary solution."
+        },
+        {
+            "id": "LC0031",
+            "action": "Warning",
+            "justification": "Set ReadIsolation property instead of LockTable method."
+        },
+        {
+            "id": "LC0043",
+            "action": "None",
+            "justification": "Storing value in Isolated Storage and not storing secrets."
+        },
+        {
+            "id": "LC0045",
+            "action": "Warning",
+            "justification": "Zero (0) Enum value should be reserved for Empty Value."
+        },
+        {
+            "id": "LC0052",
+            "action": "Warning",
+            "justification": "The internal procedure is declared but never used."
+        },
+        {
+            "id": "LC0053",
+            "action": "Warning",
+            "justification": "The internal procedure is only used in the object in which it is declared. Consider making the procedure local."
+        }
+    ]
+}

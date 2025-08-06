@@ -1,0 +1,70 @@
+{
+  "id": "1981e25c-1450-4a20-a5ba-eaa1926a6129",
+  "name": "IS License Management Unit Tests",
+  "publisher": "Implementation Specialists",
+  "version": "26.2.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "../Resources/ISLogo.png",
+  "dependencies": [
+    {
+      "id": "d6e30684-2c84-4499-b26c-fcd8c4aad1a2",
+      "name": "IS License Management",
+      "version": "0.0.0.0",
+      "publisher": "Implementation Specialists"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "version": "22.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "name": "Any",
+      "version": "22.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "9856ae4f-d1a7-46ef-89bb-6ef056398228",
+      "name": "System Application Test Library",
+      "version": "22.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "version": "22.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+      "name": "Test Runner",
+      "version": "22.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.4.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.1",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

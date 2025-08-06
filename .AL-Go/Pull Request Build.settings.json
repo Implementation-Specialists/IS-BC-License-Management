@@ -1,0 +1,11 @@
+{
+"ConditionalSettings": [
+        {
+            "settings": {
+                "doNotPublishApps": false,
+                "doNotSignApps": true,
+                "preprocessorSymbols": [ "DEBUG" ]
+            }
+        }
+    ]
+}
