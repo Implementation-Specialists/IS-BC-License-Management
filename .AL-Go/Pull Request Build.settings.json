@@ -3,7 +3,7 @@
         {
             "settings": {
                 "doNotPublishApps": false,
-                "doNotSignApps": true
+                "doNotSignApps": true,
                 "preprocessorSymbols": [ "DEBUG" ]
             }
         }
