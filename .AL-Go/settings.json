@@ -4,6 +4,7 @@
   "appSourceCopMandatoryAffixes": [
     "ISZ"
   ],
+  "doNotPublishApps": true,
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
