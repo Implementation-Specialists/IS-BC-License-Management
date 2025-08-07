@@ -59,7 +59,7 @@
         },
         {
             "id": "PTE0012",
-            "action": "None",
+            "action": "Hidden",
             "justification": "Setting InternalsVisibleTo to disable other extensions from access tables and codeunits."
         }
     ]
