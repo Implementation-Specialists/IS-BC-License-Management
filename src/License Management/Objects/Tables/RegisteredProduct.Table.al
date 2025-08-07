@@ -1,7 +1,8 @@
 namespace IS.LicenseManagement;
 
-table 72458590 "ISZ Registered Product"
+table 66000 "ISZ Registered Product"
 {
+    Access = Internal;
     Caption = 'Implementation Specialists Registered Product';
     DataCaptionFields = "Product Name";
     DataClassification = CustomerContent;

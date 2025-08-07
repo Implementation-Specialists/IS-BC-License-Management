@@ -1,7 +1,8 @@
 namespace IS.LicenseManagement;
 
-codeunit 72458595 "ISZ License Manager Mock V1" implements "ISZ ILicense Manager V1"
+codeunit 66005 "ISZ License Manager Mock V1" implements "ISZ ILicense Manager V1"
 {
+    Access = Internal;
 
     /// <summary>
     /// Validate license for an extension.

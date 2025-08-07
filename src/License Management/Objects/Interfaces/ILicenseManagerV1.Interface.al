@@ -2,6 +2,8 @@ namespace IS.LicenseManagement;
 
 interface "ISZ ILicense Manager V1"
 {
+    Access = Internal;
+
     /// <summary>
     /// Validate license for an extension.
     /// </summary>

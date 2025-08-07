@@ -1,7 +1,8 @@
 namespace IS.LicenseManagement;
 
-enum 72458590 "ISZ License Manager Impl." implements "ISZ ILicense Manager V1"
+enum 66000 "ISZ License Manager Impl." implements "ISZ ILicense Manager V1"
 {
+    Access = Internal;
     Extensible = false;
 
     value(1; V1)

@@ -1,7 +1,9 @@
 namespace IS.LicenseManagement;
 
-codeunit 72458590 "ISZ License Storage Manager"
+codeunit 66000 "ISZ License Storage Manager"
 {
+    Access = Internal;
+
     var
         ExpirationDateFormatTok: Label '%1_ExpirationDate', Comment = '%1 = Extension Id', Locked = true;
         ImplementationTok: Label 'Implementation', Locked = true;

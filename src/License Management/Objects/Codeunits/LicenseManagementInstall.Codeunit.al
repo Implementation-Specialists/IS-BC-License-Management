@@ -1,6 +1,6 @@
 namespace IS.LicenseManagement;
 
-codeunit 72458591 "ISZ License Management Install"
+codeunit 66001 "ISZ License Management Install"
 {
     Access = Internal;
     Permissions = tabledata "ISZ Registered Product" = r;

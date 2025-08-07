@@ -2,8 +2,10 @@ namespace IS.LicenseManagement;
 
 using System.Telemetry;
 
-codeunit 72458596 "ISZ License Manager V1" implements "ISZ ILicense Manager V1"
+codeunit 66006 "ISZ License Manager V1" implements "ISZ ILicense Manager V1"
 {
+    Access = Internal;
+
     /// <summary>
     /// Validate license for an extension.
     /// </summary>

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IS License Management">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3008160381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Implementation Specialists Registered Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISZ Registered Product - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3008160381 - Field 3162325720 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extension Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISZ Registered Product - Field Extension Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3008160381 - Field 3162325720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISZ Registered Product - Field Extension Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3008160381 - Field 720790368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Product Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISZ Registered Product - Field Product Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3008160381 - Field 720790368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISZ Registered Product - Field Product Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2104872809 - Method 2959257990 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Error Message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ License Manager V1 - Method ProcessErrorResult - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2104872809 - Method 1413179732 - NamedType 3577721395" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validating license...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ License Manager V1 - Method SendValidateLicenseRequest - NamedType ValidatingLicenseMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 1293637989 - NamedType 3266673687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Us</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method AddContactUsAndRegisterNowNotificationActions - NamedType InvalidLicenseContactUsMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 1293637989 - NamedType 4178709582" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register now</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method AddContactUsAndRegisterNowNotificationActions - NamedType InvalidLicenseRegisterMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 1912033971 - NamedType 947499149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show a warning that the %1 license is expiring soon.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method InsertWarningNotificationToMyNotifications - NamedType WarningNotificationDescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 1912033971 - NamedType 1472551814" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show %1 license expiration warning</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method InsertWarningNotificationToMyNotifications - NamedType WarningNotificationNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 3612201272 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to find product with id: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Extension Id</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method Notification_OpenProductRegistrationDialog - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 2803322132 - NamedType 3608032805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Don't show again</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method SendExpirationWarningNotification - NamedType DontShowMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 2803322132 - NamedType 4226853092" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your license for %1 expires in %2 day%3. Contact us to purchase a new license.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name, %2 = Expiry days %3 = s when greater than 1 day</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method SendExpirationWarningNotification - NamedType WarningExpirationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 2182967533 - NamedType 2637061655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your license for %1 is expired. Contact us to purchase a new license.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method SendInvalidLicenseNotification - NamedType ExpiredLicenseMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 2182967533 - NamedType 1247996781" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your license for %1 is not valid.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method SendInvalidLicenseNotification - NamedType InvalidLicenseMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 211911002 - Method 2403603560 - NamedType 3625981792" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your license for %1 is now valid. Close and reopen the current page to continue.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Product Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ISZ Notification Manager - Method SendValidLicenseNotification - NamedType ValidLicenseMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1672877390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Register Product Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1672877390 - Method 4177352842 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify a license to continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Register Product Dialog - Method OnQueryClosePage - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1672877390 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Register Product Dialog - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1672877390 - Control 185011272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the license field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Register Product Dialog - Control LicenseControl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1672877390 - Control 185011272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Register Product Dialog - Control LicenseControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IS Registered Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 1579714849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Expiration Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control Expiration Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 3045457947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Issued Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control Issued Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 3045457947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control Issued Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 2407243935 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the product license is valid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control License Valid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Control 2407243935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Control License Valid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Action 1797688486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Register License action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Action Register License - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3008160381 - Action 1797688486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Product - Action Register License - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IS Registered Products</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 1579714849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Expiration Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control Expiration Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 3045457947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Issued Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control Issued Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 3045457947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control Issued Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 2407243935 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the product license is valid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control License Valid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Control 2407243935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Control License Valid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Action 1797688486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Register License action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Action Register License - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3764185428 - Action 1797688486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register License</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISZ Registered Products - Action Register License - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1115140082 - EnumValue 493231369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ISZ License Manager Impl. - EnumValue V1 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
