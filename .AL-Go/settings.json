@@ -4,7 +4,7 @@
   "appSourceCopMandatoryAffixes": [
     "ISZ"
   ],
-  "ruleSetFile": "../Ruleset/IS.ruleset.json",
+  "ruleSetFile": "./src/Ruleset/IS.ruleset.json",
   "doNotPublishApps": true,
   "appFolders": [],
   "testFolders": [],
