@@ -2,7 +2,7 @@ namespace IS.LicenseManagement;
 
 using System.Telemetry;
 
-codeunit 72458594 "ISZ Telemetry Logger" implements "Telemetry Logger"
+codeunit 66004 "ISZ Telemetry Logger" implements "Telemetry Logger"
 {
     Access = Internal;
 
