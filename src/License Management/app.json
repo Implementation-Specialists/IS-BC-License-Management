@@ -2,7 +2,7 @@
   "id": "d6e30684-2c84-4499-b26c-fcd8c4aad1a2",
   "name": "IS License Management",
   "publisher": "Implementation Specialists",
-  "version": "26.2.0.0",
+  "version": "1.0.0.0",
   "brief": "Manages licenses for Implementation Specialists products.",
   "description": "Performs license validation and registration for Implementation Specialists products that require a license.",
   "privacyStatement": "https://www.iscorp.biz/",
@@ -15,7 +15,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "26.2.0.0",
+  "application": "0.0.0.0",
   "idRanges": [
     {
       "from": 66000,
