@@ -2,7 +2,7 @@
   "id": "1981e25c-1450-4a20-a5ba-eaa1926a6129",
   "name": "IS License Management Unit Tests",
   "publisher": "Implementation Specialists",
-  "version": "26.2.0.0",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,7 +12,7 @@
   "logo": "../Resources/ISLogo.png",
   "dependencies": [
     {
-      "id": "d6e30684-2c84-4499-b26c-fcd8c4aad1a2",
+      "id": "8fac7180-f445-4dbf-8a6c-40461154929e",
       "name": "IS License Management",
       "version": "0.0.0.0",
       "publisher": "Implementation Specialists"
@@ -50,7 +50,7 @@
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "23.4.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 50100,
