@@ -11,7 +11,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "1.0.0.0",
+  "repoVersion": "1.1.0.0",
   "enableCodeCop": true,
   "enableUICop": true,
   "customCodeCops": [
