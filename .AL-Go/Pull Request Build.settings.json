@@ -4,6 +4,7 @@
             "settings": {
                 "doNotPublishApps": false,
                 "doNotSignApps": true,
+                "skipUpgrade": true,
                 "preprocessorSymbols": [ "DEBUG" ]
             }
         }
