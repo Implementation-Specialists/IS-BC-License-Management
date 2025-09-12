@@ -1,7 +1,7 @@
 {
   "id": "8fac7180-f445-4dbf-8a6c-40461154929e",
   "name": "IS License Management",
-  "publisher": "Implementation Specialists",
+  "publisher": "IMPLEMENTATION SPECIALISTS, INC.",
   "version": "1.1.0.0",
   "brief": "Manages licenses for Implementation Specialists products.",
   "description": "Performs license validation and registration for Implementation Specialists products that require a license.",
