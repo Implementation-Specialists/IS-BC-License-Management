@@ -4,6 +4,7 @@
   "appSourceCopMandatoryAffixes": [
     "ISZ"
   ],
+  "applicationInsightsConnectionString": "InstrumentationKey=b9dfe195-11d0-46b3-9029-88190d306e75;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/;ApplicationId=83485f84-81d6-464f-b0fc-fb3ac871182a",
   "updateDependencies": true,
   "ruleSetFile": "./src/Ruleset/IS.ruleset.json",
   "doNotPublishApps": true,
