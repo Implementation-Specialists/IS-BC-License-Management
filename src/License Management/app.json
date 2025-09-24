@@ -18,8 +18,8 @@
   "application": "26.0.0.0",
   "idRanges": [
     {
-      "from": 66000,
-      "to": 66015
+      "from": 72458590,
+      "to": 72458600
     }
   ],
   "resourceExposurePolicy": {
@@ -31,7 +31,7 @@
     {
       "id": "1981e25c-1450-4a20-a5ba-eaa1926a6129",
       "name": "IS License Management Unit Tests",
-      "publisher": "Implementation Specialists"
+      "publisher": "IMPLEMENTATION SPECIALISTS, INC."
     }
   ],
   "runtime": "15.2",

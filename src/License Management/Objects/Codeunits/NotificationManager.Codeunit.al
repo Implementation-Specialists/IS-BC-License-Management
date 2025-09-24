@@ -3,7 +3,7 @@ namespace IS.LicenseManagement;
 using System.Environment.Configuration;
 using System.Telemetry;
 
-codeunit 66003 "ISZ Notification Manager"
+codeunit 72458593 "ISZ Notification Manager"
 {
     Access = Internal;
     Permissions = tabledata "ISZ Registered Product" = r;

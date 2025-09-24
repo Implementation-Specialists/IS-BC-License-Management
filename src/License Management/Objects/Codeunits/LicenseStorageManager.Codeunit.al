@@ -1,6 +1,6 @@
 namespace IS.LicenseManagement;
 
-codeunit 66000 "ISZ License Storage Manager"
+codeunit 72458592 "ISZ License Storage Manager"
 {
     Access = Internal;
 

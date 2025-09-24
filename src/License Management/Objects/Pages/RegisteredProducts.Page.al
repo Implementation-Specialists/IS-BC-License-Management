@@ -1,6 +1,6 @@
 namespace IS.LicenseManagement;
 
-page 66001 "ISZ Registered Products"
+page 72458591 "ISZ Registered Products"
 {
     ApplicationArea = All;
 #if DEBUG
