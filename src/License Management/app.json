@@ -27,13 +27,6 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
-  "internalsVisibleTo": [
-    {
-      "id": "1981e25c-1450-4a20-a5ba-eaa1926a6129",
-      "name": "IS License Management Unit Tests",
-      "publisher": "IMPLEMENTATION SPECIALISTS, INC."
-    }
-  ],
   "runtime": "15.2",
   "features": [
     "NoImplicitWith",
