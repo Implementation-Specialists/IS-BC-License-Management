@@ -1,6 +1,6 @@
 namespace IS.LicenseManagement;
 
-page 66002 "ISZ Register Product Dialog"
+page 72458592 "ISZ Register Product Dialog"
 {
     ApplicationArea = All;
     Caption = 'Register Product';

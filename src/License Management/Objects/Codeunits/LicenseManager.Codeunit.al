@@ -4,7 +4,7 @@ using System.Telemetry;
 using System.Environment;
 using System.Azure.Identity;
 
-codeunit 66002 "ISZ License Manager"
+codeunit 72458591 "ISZ License Manager"
 {
     Permissions = tabledata "ISZ Registered Product" = Rim;
 

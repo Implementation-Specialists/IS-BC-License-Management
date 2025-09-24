@@ -1,6 +1,6 @@
 namespace IS.LicenseManagement;
 
-permissionset 66000 "ISZ License Mgt."
+permissionset 72458590 "ISZ License Mgt."
 {
     Assignable = true;
     Caption = 'IS License Management', Locked = true;

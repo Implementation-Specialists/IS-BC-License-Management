@@ -5,7 +5,6 @@ using IS.LicenseManagement;
 codeunit 50100 "ISZ License Mgt. Unit Tests"
 {
     // [FEATURE] [License Management]
-    Permissions = tabledata "ISZ Registered Product" = r;
     Subtype = Test;
     TestPermissions = Restrictive;
 
