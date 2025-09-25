@@ -1,7 +1,7 @@
 {
   "id": "1981e25c-1450-4a20-a5ba-eaa1926a6129",
   "name": "IS License Management Unit Tests",
-  "publisher": "IMPLEMENTATION SPECIALISTS, INC.",
+  "publisher": "IMPLEMENTATION SPECIALISTS",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -15,7 +15,7 @@
       "id": "8fac7180-f445-4dbf-8a6c-40461154929e",
       "name": "IS License Management",
       "version": "1.1.0.0",
-      "publisher": "Implementation Specialists"
+      "publisher": "IMPLEMENTATION SPECIALISTS"
     },
     {
       "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
