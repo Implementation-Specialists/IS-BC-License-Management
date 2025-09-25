@@ -1,22 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
-  "country": "us",
   "appSourceCopMandatoryAffixes": [
     "ISZ"
   ],
   "applicationInsightsConnectionString": "InstrumentationKey=b9dfe195-11d0-46b3-9029-88190d306e75;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/;ApplicationId=83485f84-81d6-464f-b0fc-fb3ac871182a",
-  "updateDependencies": true,
   "ruleSetFile": "./src/Ruleset/IS.ruleset.json",
-  "doNotPublishApps": true,
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": [],
-  "repoVersion": "1.1.0.0",
-  "enableCodeCop": true,
-  "enableUICop": true,
-  "customCodeCops": [
-    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/latest/download/BusinessCentral.LinterCop.dll"
-  ],
-  "vsixFile": "latest",
-  "failOn": "warning"
+  "repoVersion": "1.1.0.0"
 }
